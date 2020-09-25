@@ -4,3 +4,8 @@ I want this to commit 3.^M
 
 Another change
 This is changed for tutorial #9
+
+This is changed for tutorial #11
+Another Change For amend^M
+
+tutorials
